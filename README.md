@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="banner-joana.png" alt="Hey there! I'm Joana Fernandes" />
+</p>
 
 🧭 I’m currently working on<br>Improving data analytics workflows with Power BI and developing real-world projects combining business strategy and data science.<br><br>🤝 I’m looking to collaborate on<br>Projects involving sales performance, incentive programs, and data storytelling using visual tools like Power BI and Python notebooks.<br><br>🙌 I’m looking for help with<br>Enhancing model deployment skills and learning best practices for machine learning pipelines in production environments.<br><br>🌱 I’m currently learning<br>Advanced machine learning techniques, including time series forecasting and natural language processing (NLP).<br><br>💬 Ask me about<br>KPI visualization, operational analytics in the automotive industry, or how to turn raw data into business impact.<br><br>⚡ Fun fact<br>I made the leap from Excel power-user to data science enthusiast thanks to a bootcamp—now I love blending business logic with Python code!
 
