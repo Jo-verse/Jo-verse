@@ -1,5 +1,5 @@
 <h1 align="center">Hey There!</h1>
-<h2 align="center">Welcome to my Gitfile! 🤓</h2>
+<h1 align="center">Welcome to my Gitfile! 🤓</h1>
 
 <h3 align="left">🚀 What I'm Up To</h3>
 
@@ -24,7 +24,9 @@ Enhancing <strong>data analytics workflows</strong> with Power BI and building <
 </p>
 
 <p><strong>⚡ Fun fact:</strong><br>
-I made the leap from Excel wizard 🧙‍♀️ to data science enthusiast 🚀 — now I love blending <strong>business logic</strong> with <strong>Python</strong> and <strong>machine learning</strong> to build smart solutions.
+I made the leap from Excel wizard 🧙‍♀️ to data science enthusiast 🚀 — now I love blending <strong>business logic</strong> with <strong>Python</strong> and <strong>machine learning</strong> to build smart solutions.<br><br>
+Also... ¡sí, hablo español! 🇪🇸<br>
+So whether it's SQL or "¿qué tal?", I can work fluently in both English and Spanish 😄
 </p>
 
 ## 🌐 Socials:
