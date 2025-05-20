@@ -1,15 +1,31 @@
 <h1 align="center">Hey There!</h1>
 <h2 align="center">Welcome to my Gitfile! 🤓</h2>
 
-🧭 I’m currently working on improving data analytics workflows with Power BI and developing real-world projects combining business strategy and data science.
+<h3 align="left">🚀 What I'm Up To</h3>
 
-🤝 I’m looking to collaborate on projects involving sales performance, incentive programs, and data storytelling using visual tools like Power BI and Python notebooks.
+<p><strong>🧭 Currently working on:</strong><br>
+Enhancing <strong>data analytics workflows</strong> with Power BI and building <strong>real-world data projects</strong> that combine strategic business insights with technical depth in operations and finance.
+</p>
 
->💬 Ask me about
-KPI visualization, operational analytics in the automotive industry, or how to turn raw data into business impact.
+<p><strong>🤝 Open to collaborate on:</strong></p>
+<ul>
+  <li>📊 Sales performance tracking</li>
+  <li>🎯 Incentive program design and analysis</li>
+  <li>📈 Data storytelling using <strong>Power BI</strong> & <strong>Python notebooks</strong></li>
+  <li>📋 Business dashboards & KPI reporting</li>
+</ul>
 
-⚡ Fun fact
-I made the leap from Excel power-user to data science enthusiast thanks to a bootcamp—now I love blending business logic with Python code!
+<p><strong>💬 Ask me about:</strong><br>
+<em>
+📊 KPI visualization<br>
+🧠 Operational analytics in the automotive industry<br>
+🧩 Turning raw data into actionable business impact
+</em>
+</p>
+
+<p><strong>⚡ Fun fact:</strong><br>
+I made the leap from Excel wizard 🧙‍♀️ to data science enthusiast 🚀 — now I love blending <strong>business logic</strong> with <strong>Python</strong> and <strong>machine learning</strong> to build smart solutions.
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joa.cf98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joanafernandesdeandrade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandesjoana8@gmail.com) 
