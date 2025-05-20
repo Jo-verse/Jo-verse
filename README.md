@@ -1,8 +1,15 @@
 <h1 align="center">Hey There!</h1>
 <h2 align="center">Welcome to my Gitfile! 🤓</h2>
 
-🧭 I’m currently working on improving data analytics workflows with Power BI and developing real-world projects combining business strategy and data science.<br><br>🤝 I’m looking to collaborate on projects involving sales performance, incentive programs, and data storytelling using visual tools like Power BI and Python notebooks.<br><br>>💬 Ask me about<br>KPI visualization, operational analytics in the automotive industry, or how to turn raw data into business impact.<br><br>⚡ Fun fact<br>I made the leap from Excel power-user to data science enthusiast thanks to a bootcamp—now I love blending business logic with Python code!
+🧭 I’m currently working on improving data analytics workflows with Power BI and developing real-world projects combining business strategy and data science.
 
+🤝 I’m looking to collaborate on projects involving sales performance, incentive programs, and data storytelling using visual tools like Power BI and Python notebooks.
+
+>💬 Ask me about
+KPI visualization, operational analytics in the automotive industry, or how to turn raw data into business impact.
+
+⚡ Fun fact
+I made the leap from Excel power-user to data science enthusiast thanks to a bootcamp—now I love blending business logic with Python code!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joa.cf98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joanafernandesdeandrade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandesjoana8@gmail.com) 
